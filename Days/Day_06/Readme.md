@@ -35,7 +35,7 @@ The **Nautilus DevOps team** is ready to move their first application component 
 <img width="1895" height="288" alt="Screenshot 2026-03-10 234747" src="https://github.com/user-attachments/assets/25312d23-0e19-4902-ab43-1d2febb35a5f" />
 
 
-<img width="1895" height="288" alt="Screenshot 2026-03-10 234747" src="https://github.com/user-attachments/assets/57901cfc-5e9d-4fe3-bf91-c4d0cb536588" />
+<img width="1007" height="538" alt="Screenshot 2026-03-10 234947" src="https://github.com/user-attachments/assets/1e028d4b-2f8b-4dcf-a5f7-47f78da5e658" />
 
 
 To check the status of your instance and find its IP address via the terminal:
