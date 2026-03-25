@@ -1,4 +1,4 @@
-# ☁️ 50 Days of Cloud (AWS) - Learning Journey
+# ☁️ 100 Days of Cloud (AWS) - Learning Journey
 Welcome to my AWS learning journey! I am a Computer Science undergraduate at the University of Ruhuna, building a solid foundation in Cloud Engineering.
 
 ## 🎯 Goal
