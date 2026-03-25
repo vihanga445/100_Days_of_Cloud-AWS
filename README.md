@@ -2,7 +2,7 @@
 Welcome to my AWS learning journey! I am a Computer Science undergraduate at the University of Ruhuna, building a solid foundation in Cloud Engineering.
 
 ## 🎯 Goal
-To move from "Zero" to "Cloud Hero" by completing 50 days of hands-on AWS tasks inspired by the KodeKloud challenge.
+To move from "Zero" to "Cloud Hero" by completing  hands-on AWS tasks inspired by the KodeKloud challenge.
 
 ## 🚀 Technologies
 - **Cloud Provider:** Amazon Web Services (AWS)
